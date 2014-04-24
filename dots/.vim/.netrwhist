@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/flome/HE-NWW-NGP/trunk/hal/hw_service'
+let g:netrw_dirhist_2='/home/flome/HE-NWW-Codec_Lib/trunk/server'
+let g:netrw_dirhist_3='/home/flome/h264stuff/glx264'
+let g:netrw_dirhist_4='/home/fiji/download'
+let g:netrw_dirhist_5='/dev/shm/cloud9/cloud9/configs'
